@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Welcome to my barren Github Profile</h3>
+<h3 align="center">Welcome to my barren Github Profile</h3>
 
 ###
 
-<p align="left">I'm a CE student, interested in hardware and stuff.</p>
+<p align="center">I'm a CE student, interested in hardware and stuff.</p>
 
 ###
 
