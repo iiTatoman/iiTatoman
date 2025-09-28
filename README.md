@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center" style="text-decoration: none; font-size: 2.5em; color: #1e90ff;<"Welcome to My GitHub Profile">
+<p align="center" style="font-size: 2.5em; color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My GitHub Galaxy</p>
 
 ## 🌟About Me
 -  Studying **Computer Engineering** at Ho Chi Minh University of Technology
