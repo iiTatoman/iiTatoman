@@ -9,7 +9,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iitatoman&show_icons=true&locale=en&layout=compact" alt="iitatoman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iitatoman&show_icons=true&locale=en" alt="iitatoman" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iitatoman&show_icons=true&locale=en" alt="iitatoman" /></p>
 <!--
 **iiTatoman/iiTatoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
