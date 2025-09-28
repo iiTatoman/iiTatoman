@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src="https://giphy.com/gifs/uma-musume-umamusume-uGja5PHCc5C0co1jh9"  />
+    <img height="200" src="https://imgflip.com/memetemplate/610070632/Oguri-umaphones"  />
 </div>
 
 
