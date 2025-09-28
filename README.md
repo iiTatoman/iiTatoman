@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h1 align="center">Welcome to my barren Github Profile</h1>
+<h1 align="center" style="text-decoration: none; font-size: 2.5em; color: #1e90ff;">Welcome to My GitHub Galaxy</h1>
 
 ## 🌟About Me
 -  Studying **Computer Engineering** at Ho Chi Minh University of Technology
