@@ -14,7 +14,7 @@
 -  Studying **Computer Engineering** at Ho Chi Minh University of Technology
 - Interested in **hardware design**, **LLMs**, and stuff
 
-<h2 align="center">🛠️Languages & Tools</h2>
+<h2 align="left">🛠️Languages & Tools</h2>
 <br clear="both">
 
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </p>
 
-<h2 align="center">📱Socials</h2>
+<h2 align="left">📱Socials</h2>
 <br clear="both">
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">📊Github Stats</h2>
+<h2 align="left">📊Github Stats</h2>
 <br clear="both">
 
 <p align="center">
