@@ -1,16 +1,18 @@
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoZjViczBzdGR6cDg2OTMycG55ZThzY20ybWVyamZzZzdleWdscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uGja5PHCc5C0co1jh9/giphy.gif"  />
-
-###
-
-<h3 align="center">Welcome to my barren Github Profile</h3>
-
-###
-
-<p align="center">I'm a CE student, interested in hardware and stuff.</p>
+<img align="center" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoZjViczBzdGR6cDg2OTMycG55ZThzY20ybWVyamZzZzdleWdscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uGja5PHCc5C0co1jh9/giphy.gif"  />
 
 ###
 
 <br clear="both">
+
+<h1 align="center">Welcome to my barren Github Profile</h1>
+
+###
+
+<br clear="both">
+
+<p align="center">I'm a CE student, interested in hardware and stuff.</p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iiTatoman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -36,6 +38,8 @@
 <h2 align="center">My Socials</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://discord.com/users/curryramsey" target="_blank">
