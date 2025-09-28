@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h2 align="center" style="color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My barren GitHub Profile</h2>
+<p align="center" style="color: #1e90ff;"><strong>Welcome to My GitHub Profile</strong></p>
 
 ## 🌟About Me
 <br clear="both">
