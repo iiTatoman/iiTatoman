@@ -6,8 +6,6 @@
 
 <h1 align="center">Welcome to my barren Github Profile</h1>
 
-<br clear="both">
-
 ## 🌟About Me
 -  Studying **Computer Engineering** at Ho Chi Minh University of Technology
 - Interested in **hardware design**, **LLMs**, and stuff
@@ -19,8 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </p>
 
-<br clear="both">
-
 ## 📱Connect with Me
 <p align="center">
   <a href="https://discord.com/users/curryramsey" target="_blank">
@@ -30,8 +26,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="Facebook" />
   </a>
 </p>
-
-<br clear="both">
 
 ## 📊Github Stats
 <p align="center">
