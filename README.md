@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </p>
 
-## 📱My Socials
+## 📱Socials
 <br clear="both">
 
 <p align="center">
@@ -35,6 +35,7 @@
 
 ---
 
+## 📊Github Stats
 <br clear="both">
 
 <p align="center">
