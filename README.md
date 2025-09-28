@@ -7,7 +7,6 @@
 <h1 align="center" style="color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My GitHub Profile</h1>
 
 <br clear="both">
-
 ## 🌟About Me
 <br clear="both">
 
@@ -23,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </p>
 
+<br clear="both">
 <h2 align="left">📱Socials</h2>
 <br clear="both">
 
