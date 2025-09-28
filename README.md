@@ -2,7 +2,7 @@
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoZjViczBzdGR6cDg2OTMycG55ZThzY20ybWVyamZzZzdleWdscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uGja5PHCc5C0co1jh9/giphy.gif"  />
 </div>
 
-# <p align="center"><h1>🌟 Welcome to my barren Github Profile 🌟</h1></p>
+<p align="center"><h1>🌟 Welcome to my barren Github Profile 🌟</h1></p>
 
 ## 🌟About Me
 -  Studying **Computer Engineering** at Ho Chi Minh University of Technology
