@@ -37,6 +37,7 @@
 
 ---
 
+<br clear="both">
 <h2 align="left">📊Github Stats</h2>
 <br clear="both">
 
