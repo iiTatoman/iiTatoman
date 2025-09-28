@@ -45,5 +45,5 @@
 <br clear="both">
 
 <p align="center">
-<img ![snake gif](https://github.com/iiTatoman/iiTatoman/blob/output/github-snake-dark.svg) />
+<img src="https://raw.githubusercontent.com/iiTatoman/iiTatoman/output/github-snake-dark.svg" alt="snake gif" />
 </p>
