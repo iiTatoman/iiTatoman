@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  ![h4s3ro3iltgf1](https://github.com/user-attachments/assets/f3717a76-39c3-41dc-a17d-28144a5bb32d)
 </div>
+
 
 ###
 
@@ -33,8 +34,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
-
-###
 
 ###
 
