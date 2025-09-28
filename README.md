@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iitatoman&show_icons=true&locale=en" alt="iitatoman" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/iiTatoman/iiTatoman/blob/output/github-snake-dark.svg)
