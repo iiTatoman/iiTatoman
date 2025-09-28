@@ -1,5 +1,5 @@
 <div align="center">
-  ![h4s3ro3iltgf1](https://github.com/user-attachments/assets/f3717a76-39c3-41dc-a17d-28144a5bb32d)
+    <img height="200" src="https://giphy.com/gifs/uma-musume-umamusume-uGja5PHCc5C0co1jh9"  />
 </div>
 
 
