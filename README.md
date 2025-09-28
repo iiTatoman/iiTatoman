@@ -14,6 +14,7 @@
 
 ## 🛠️Languages & Tools
 <br clear="both">
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -22,6 +23,7 @@
 
 ## 📱My Socials
 <br clear="both">
+
 <p align="center">
   <a href="https://discord.com/users/curryramsey" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="Discord" />
@@ -30,8 +32,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="Facebook" />
   </a>
 </p>
-
-<br clear="both">
 
 ---
 
