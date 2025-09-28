@@ -8,13 +8,13 @@
 
 <br clear="both">
 
-## 🌟About Me
+🌟About Me
 <br clear="both">
 
 -  Studying **Computer Engineering** at Ho Chi Minh University of Technology
 - Interested in **hardware design**, **LLMs**, and stuff
 
-## 🛠️Languages & Tools
+🛠️Languages & Tools
 <br clear="both">
 
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </p>
 
-## 📱Socials
+📱Socials
 <br clear="both">
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊Github Stats
+📊Github Stats
 <br clear="both">
 
 <p align="center">
