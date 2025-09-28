@@ -7,10 +7,12 @@
 <p align="center" style="font-size: 100em; color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My GitHub Profile</p>
 
 ## 🌟About Me
+<br clear="both">
 -  Studying **Computer Engineering** at Ho Chi Minh University of Technology
 - Interested in **hardware design**, **LLMs**, and stuff
 
 ## 🛠️Languages & Tools
+<br clear="both">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -18,6 +20,7 @@
 </p>
 
 ## 📱My Socials
+<br clear="both">
 <p align="center">
   <a href="https://discord.com/users/curryramsey" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="Discord" />
