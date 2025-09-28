@@ -17,9 +17,7 @@
 
 ###
 
-<picture>
 ![snake gif](https://github.com/iiTatoman/iiTatoman/blob/output/github-snake-dark.svg)
-</picture>
 
 ###
 
