@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<h3 align="left">🛠️Languages & Tools</h3>
+<h2 align="left">🛠️Languages & Tools</h2>
 <br clear="both">
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<h3 align="left">📱Socials</h3
+<h2 align="left">📱Socials</h2>
 <br clear="both">
 
 <p align="center">
