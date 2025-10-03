@@ -11,8 +11,8 @@
 ## 🌟About Me
 <br clear="both">
 
--  Studying **Computer Engineering** at Ho Chi Minh University of Technology
-- Interested in **hardware design**, **LLMs**, and stuff
+-  Studying **Computer Engineering** at Ho Chi Minh University of Technology.
+- Interested in **hardware design**, **LLMs**, and stuff.
 
 <br clear="both">
 
