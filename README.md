@@ -35,9 +35,16 @@
   <a href="https://www.facebook.com/khang.nguyen.103817/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="Facebook" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="Email" />
-  </a>
+</p>
+
+<br clear="both">
+
+<h2 align="left">📧 You can also reach me at</h2>
+<br clear="both">
+
+<p align="left">
+  <strong>Personal Email:</strong> <a href="mailto:yourpersonal@example.com">yourpersonal@example.com</a><br>
+  <strong>School Email:</strong> <a href="mailto:yourschool@example.edu">yourschool@example.edu</a>
 </p>
 
 ---
