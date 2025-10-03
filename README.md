@@ -35,9 +35,6 @@
   <a href="https://www.facebook.com/khang.nguyen.103817/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="Facebook" />
   </a>
-  Or you can contact me at: 
-  <a href="mailto:thekhang1610@gmail.com">personal email: thekhang1610@gmail.com</a><br>
-  <a href="mailto:khang.nguyenktmt23@hcmut.edu.vn">school email: khang.nguyenktmt23@hcmut.edu.vn</a>
 </p>
 
 ---
