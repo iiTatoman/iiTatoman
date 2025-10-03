@@ -40,7 +40,7 @@
 <br clear="both">
 
 <p align="left">
-  📧 You can also reach me at  
+  📧 You can also reach me at:
 </p>
 
 <p align="left">
