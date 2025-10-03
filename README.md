@@ -39,12 +39,13 @@
 
 <br clear="both">
 
-<h2 align="left">📧 You can also reach me at</h2>
-<br clear="both">
+<p align="left">
+  📧 You can also reach me at  
+</p>
 
 <p align="left">
-  <strong>Personal Email:</strong> <a href="mailto:yourpersonal@example.com">yourpersonal@example.com</a><br>
-  <strong>School Email:</strong> <a href="mailto:yourschool@example.edu">yourschool@example.edu</a>
+  <strong>Personal Email:</strong> <a href="mailto:thekhang1610@gmail.com">yourpersonal@example.com</a><br>
+  <strong>School Email:</strong> <a href="mailto:khang.nguyenktmt23@hcmut.edu.vn">yourschool@example.edu</a>
 </p>
 
 ---
