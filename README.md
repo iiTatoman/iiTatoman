@@ -51,13 +51,14 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiTatoman&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iiTatoman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iiTatoman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iiTatoman&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15" />
+</p>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/iiTatoman/iiTatoman/output/github-snake-dark.svg" alt="snake gif" />
