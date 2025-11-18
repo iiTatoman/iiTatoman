@@ -31,7 +31,7 @@
 
 <h2 align="left">📧Contact Me</h2>
 </p>
-
+</p>
 <p align="left">
   <strong>Personal Email:</strong> <a href="mailto:thekhang1610@gmail.com">thekhang1610@gmail.com</a>
 </p>
