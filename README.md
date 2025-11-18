@@ -51,27 +51,12 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiTatoman&label=Profile👀Views&color=brightgreen" alt="Profile views" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iiTatoman&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15" />
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiTatoman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiTatoman&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiTatoman&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iiTatoman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iiTatoman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
 </p>
 
 <p align="center">
