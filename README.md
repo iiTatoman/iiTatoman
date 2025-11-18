@@ -1,12 +1,12 @@
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoZjViczBzdGR6cDg2OTMycG55ZThzY20ybWVyamZzZzdleWdscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uGja5PHCc5C0co1jh9/giphy.gif"  />
-</div>
-
 <br clear="both">
 
 <h1 align="center" style="color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My barren GitHub Profile</h1>
 
 <br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoZjViczBzdGR6cDg2OTMycG55ZThzY20ybWVyamZzZzdleWdscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uGja5PHCc5C0co1jh9/giphy.gif"  />
+</div>
 
 ## 🌟About Me
 <br clear="both">
