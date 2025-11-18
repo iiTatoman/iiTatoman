@@ -54,13 +54,9 @@
 
 <br clear="both">
 
-<br clear="both">
-
 <p align="center">
-  <img src="https://github-profile-badge.glitch.me/api/achievements?user=iiTatoman" alt="GitHub Achievements" /> 
+  <img src="https://github-profile-badge.glitch.me/api/achievements?user=iiTatoman" alt="GitHub Achievements" />
 </p>
-
-<br clear="both">
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/iiTatoman/iiTatoman/output/github-snake-dark.svg" alt="snake gif" />
