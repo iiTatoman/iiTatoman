@@ -57,14 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iiTatoman&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
 </p>
 
-<br clear="both">
-
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiTatoman&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
-</p>
-
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/iiTatoman/iiTatoman/output/github-snake-dark.svg" alt="snake gif" />
 </p>
