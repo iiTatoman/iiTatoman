@@ -1,6 +1,7 @@
 <br clear="both">
 
 <h1 align="center" style="color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My barren GitHub Profile</h1>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iiTatomans" alt="Profile views" />
 </p>
