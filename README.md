@@ -44,8 +44,8 @@
 </p>
 
 <p align="left">
-  <strong>Personal Email:</strong> <a href="mailto:thekhang1610@gmail.com">yourpersonal@example.com</a><br>
-  <strong>School Email:</strong> <a href="mailto:khang.nguyenktmt23@hcmut.edu.vn">yourschool@example.edu</a>
+  <strong>Personal Email:</strong> <a href="mailto:thekhang1610@gmail.com">thekhang1610@gmail.com</a><br>
+  <strong>School Email:</strong> <a href="mailto:khang.nguyenktmt23@hcmut.edu.vn">khang.nguyenktmt23@hcmut.edu.vn</a>
 </p>
 
 ---
