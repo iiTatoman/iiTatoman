@@ -1,7 +1,8 @@
 <br clear="both">
 
 <h1 align="center" style="color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My barren GitHub Profile</h1>
-https://komarev.com/ghpvc/?username=iiTatoman
+<p align="center" ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=iiTatomans) >
+</p>
 
 <br clear="both">
 
