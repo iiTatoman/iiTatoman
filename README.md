@@ -30,6 +30,7 @@
 
 
 <h2 align="left">📧Contact Me</h2>
+</p>
 
 <p align="left">
   <strong>Personal Email:</strong> <a href="mailto:thekhang1610@gmail.com">thekhang1610@gmail.com</a>
@@ -37,6 +38,7 @@
 
 <p align="left">
   <strong>School Email:</strong> <a href="mailto:khang.nguyenktmt23@hcmut.edu.vn">khang.nguyenktmt23@hcmut.edu.vn</a>
+</p>
 </p>
 
 ---
