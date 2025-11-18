@@ -25,20 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </p>
 
-<h2 align="left">📱Socials</h2>
-<br clear="both">
-
-<p align="center">
-  <a href="https://discord.com/users/curryramsey" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="Discord" />
-  </a>
-  <a href="https://www.facebook.com/khang.nguyen.103817/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="Facebook" />
-  </a>
-</p>
-
-<br clear="both">
-
 <p align="left">
   📧 You can also reach me at:
 </p>
