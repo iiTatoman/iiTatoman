@@ -36,7 +36,7 @@
 </p>
 </p>
 <p align="left">
-  <strong>Personal Email:</strong> <a href="mailto:thekhang1610@gmail.com">thekhang1610@gmail.com</a>
+  <strong>Personal Email:</strong> <a href="mailto:khanghyper1610.com">khanghyper1610.com</a>
 </p>
 
 <p align="left">
