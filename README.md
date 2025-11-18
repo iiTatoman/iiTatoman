@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iiTatoman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
 </p>
 
-<<p align="center">
+<p align="center">
   <a href="https://github.com/iiTatoman">
     <img src="https://github-profile-trophy.vercel.app/?username=iiTatoman&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
   </a>
