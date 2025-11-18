@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color: #1e90ff; font-weight: bold; margin: 0;">Welcome to My barren GitHub Profile</h1>
 <p align="center">
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=iiTatoman)
+  <img src="https://komarev.com/ghpvc/?username=iiTatomans" alt="Profile views" />
 </p>
 
 <br clear="both">
